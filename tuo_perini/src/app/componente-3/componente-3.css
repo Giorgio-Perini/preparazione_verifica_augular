@@ -1,0 +1,7 @@
+.colore {
+    color:rgb(210, 224, 11);
+}
+
+.testo {
+    display:flex; gap:5px;
+}

@@ -5,7 +5,7 @@ import { Componente1 } from './componente-1';
 describe('Componente1', () => {
   let component: Componente1;
   let fixture: ComponentFixture<Componente1>;
-
+  
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       imports: [Componente1]

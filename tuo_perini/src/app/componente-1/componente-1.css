@@ -1,0 +1,7 @@
+.colore {
+    color:blue;
+}
+
+.testo {
+    display:flex; gap:5px;
+}
